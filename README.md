@@ -1,0 +1,1 @@
+Temp repo for creating a new project with Vibe Coding with Cursor IDE.
